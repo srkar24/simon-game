@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/sim/simon_game_top_tb.vhd,1680380270,vhdl,,,,simon_game_top_tb,,,,,,,,
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/software/sim/debounce_tb.vhd,1678349455,vhdl,,,,debounce_tb,,,,,,,,
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/software/src/debouncer.vhd,1680376943,vhdl,,,,debounce,,,,,,,,
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/software/src/rand_gen.vhd,1680160413,vhdl,,,,rand_gen,,,,,,,,
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/src/simon_game_top.vhd,1680301051,vhdl,,,,simon_game_top,,,,,,,,
+C:/Users/sw119862/Desktop/ECE524L/sp23-e524-midterm2-project-simon-game-SrushtiPW/src/single_pulse_detector.vhd,1680255061,vhdl,,,,single_pulse_detector,,,,,,,,

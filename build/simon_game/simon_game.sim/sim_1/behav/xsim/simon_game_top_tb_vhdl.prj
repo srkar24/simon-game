@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../software/src/debouncer.vhd" \
+"../../../../../../software/src/rand_gen.vhd" \
+"../../../../../../src/simon_game_top.vhd" \
+"../../../../../../src/single_pulse_detector.vhd" \
+"../../../../../../sim/simon_game_top_tb.vhd" \
+
+# Do not sort compile order
+nosort

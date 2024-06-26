@@ -1,0 +1,7 @@
+Running: xsim.dir/single_pulse_detector_behav/xsimk.exe -simmode gui -wdb single_pulse_detector_behav.wdb -simrunnum 0 -socket 63404
+Design successfully loaded
+Design Loading Memory Usage: 8404 KB (Peak: 8404 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8924 KB (Peak: 8924 KB)
+Simulation CPU Usage: 171 ms

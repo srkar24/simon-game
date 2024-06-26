@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "rand_gen_behav" "xil_defaultlib.rand_gen" -log "elaborate.log" 
